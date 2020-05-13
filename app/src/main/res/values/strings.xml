@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdjoeChallenge</string>
+    <string name="notification_title">Adjoe App</string>
+    <string name="channel_name">AdjoeChannel</string>
+    <string name="channel_description">Notification channel</string>
+    <string name="initial_notification_message">First time the notification service was called</string>
+    <string name="notification_message">Last time this service was executed was %1$d minutes ago</string>
+</resources>
